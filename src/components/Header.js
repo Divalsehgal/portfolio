@@ -19,7 +19,7 @@ const Header = (props) => {
           <Link to="/music-master">Music master</Link>
         </h3>
         <h3 style={style}>
-          <Link to="/evens-or-odds">Music master</Link>
+          <Link to="/evens-or-odds">Even Or Odds</Link>
         </h3>
         <h3 style={style}>
           <Link to="/reaction">Reaction</Link>

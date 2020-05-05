@@ -33778,7 +33778,7 @@ var Header = function Header(props) {
     style: style
   }, _react.default.createElement(_reactRouterDom.Link, {
     to: "/evens-or-odds"
-  }, "Music master")), _react.default.createElement("h3", {
+  }, "Even Or Odds")), _react.default.createElement("h3", {
     style: style
   }, _react.default.createElement(_reactRouterDom.Link, {
     to: "/reaction"
@@ -38810,7 +38810,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "46111" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "37127" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
